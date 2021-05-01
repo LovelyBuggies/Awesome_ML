@@ -1,6 +1,8 @@
 # Awesome_ML
 
-List some good resources to study machine learning here, welcome to contribute!
+- List some **interesting** resources to study Machine Learning here.
+- Mostly are posts or surveys, but also include interesting discussion papers.
+- Welcome to contribute(PR) and please give a reason why it's interesting.
 
 ## Mathematics
 
@@ -20,6 +22,15 @@ List some good resources to study machine learning here, welcome to contribute!
 - [Policy Gradient Algorithms](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html#what-is-policy-gradient)
 
 ## Adversial Learning
+
+## Imitation Learning
+
+## Model Compression
+
+- [Knowledge Distillation（知识蒸馏）Review--20篇paper回顾](https://zhuanlan.zhihu.com/p/160206075)
+- [知识蒸馏 | 模型压缩利器_良心总结](https://zhuanlan.zhihu.com/p/138210881)
+- [Knowledge Distillation: A Survey](https://arxiv.org/abs/2006.05525)
+- [Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks](https://arxiv.org/abs/2004.05937)
 
 ## Quantum Machine Learning
 
