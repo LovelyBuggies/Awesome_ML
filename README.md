@@ -2,7 +2,7 @@
 
 - List some **interesting** resources to study Machine Learning here.
 - Mostly are posts or surveys, but also include interesting discussion papers.
-- Welcome to contribute(PR) and please give a reason why it's interesting.
+- Welcome to contribute(**PR**) and please give a reason why it's interesting.
 
 ## Mathematics
 
