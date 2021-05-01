@@ -30,9 +30,9 @@
 
 ## Model Compression
 
-- [Knowledge Distillation 20篇 paper 回顾](https://zhuanlan.zhihu.com/p/160206075)
-- [Knowledge Distillation: A Survey](https://arxiv.org/abs/2006.05525)
-- [Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks](https://arxiv.org/abs/2004.05937)
+- [KD 20篇 paper 回顾](https://zhuanlan.zhihu.com/p/160206075)
+- [KD: A Survey](https://arxiv.org/abs/2006.05525)
+- [KD and S-T Learning for Visual Intelligence: A Review](https://arxiv.org/abs/2004.05937)
 
 ## Quantum Machine Learning
 
