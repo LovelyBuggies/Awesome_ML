@@ -19,16 +19,18 @@
 
 ## Reinforcement Learning
 
-- [大神总结 | 强化学习线路](https://mp.weixin.qq.com/s/E2va_w2Lh_x3n_1XnOY0ZA)
+- [强化学习线路](https://mp.weixin.qq.com/s/E2va_w2Lh_x3n_1XnOY0ZA)
 - [Policy Gradient Algorithms](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html#what-is-policy-gradient)
 
 ## Adversial Learning
+
+- [GAN VS AC(RL)](https://arxiv.org/abs/1610.01945)
 
 ## Imitation Learning
 
 ## Model Compression
 
-- [Knowledge Distillation Review--20篇paper回顾](https://zhuanlan.zhihu.com/p/160206075)
+- [Knowledge Distillation 20篇 paper 回顾](https://zhuanlan.zhihu.com/p/160206075)
 - [Knowledge Distillation: A Survey](https://arxiv.org/abs/2006.05525)
 - [Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks](https://arxiv.org/abs/2004.05937)
 
