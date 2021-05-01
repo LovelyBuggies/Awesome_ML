@@ -1,4 +1,4 @@
-# Awesome_ML
+# Awesome_MachineLearning
 
 - List some **interesting** resources to study Machine Learning here.
 - Mostly are posts or surveys, but also include interesting discussion papers.
