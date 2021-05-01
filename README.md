@@ -8,18 +8,21 @@ List some good resources to study machine learning here, welcome to contribute!
 - [MPI: Introduction to Tensors](https://www.mpi-inf.mpg.de/fileadmin/inf/d5/teaching/ws15_16_adamant/tensor_intro.pdf)
 - [Tensor Decompositions and Applications](https://www.cs.cmu.edu/~christos/courses/826-resources/PAPERS+BOOK/Kolda-Bader-SAND2007-6702.pdf)
 
-## ML Basis
+## Basis
 
-## CV
+## Computer Vision
 
-## NLP
+## Natural Language Processing
 
-## RL
+## Reinforcement Learning
 
 - [大神总结 | 强化学习线路](https://mp.weixin.qq.com/s/E2va_w2Lh_x3n_1XnOY0ZA)
 - [Policy Gradient Algorithms](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html#what-is-policy-gradient)
 
-## QML
-- [Quantum Machine Learning (YouTube)](https://www.youtube.com/playlist?list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg)
+## Adversial Learning
+
+## Quantum Machine Learning
+
+- [Quantum Machine Learning(YouTube)](https://www.youtube.com/playlist?list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg)
 
 ## Miscellaneous
