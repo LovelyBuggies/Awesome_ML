@@ -27,7 +27,7 @@
 
 ## Model Compression
 
-- [Knowledge Distillation Review--20篇paper回顾](https://zhuanlan.zhihu.com/p/160206075
+- [Knowledge Distillation Review--20篇paper回顾](https://zhuanlan.zhihu.com/p/160206075)
 - [Knowledge Distillation: A Survey](https://arxiv.org/abs/2006.05525)
 - [Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks](https://arxiv.org/abs/2004.05937)
 
