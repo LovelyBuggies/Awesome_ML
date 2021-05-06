@@ -25,6 +25,7 @@
 - [UC Berkley: CS294 Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/)
 - [强化学习线路](https://mp.weixin.qq.com/s/E2va_w2Lh_x3n_1XnOY0ZA), _containing some flaws_
 - [Policy Gradient Algorithms](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html#what-is-policy-gradient)
+- [DRL & Meta-Learning Series](https://jonathan-hui.medium.com/rl-deep-reinforcement-learning-series-833319a95530)
 - [Understanding AC Methods](https://towardsdatascience.com/understanding-actor-critic-methods-931b97b6df3f)
 
 ## Adversial Learning
