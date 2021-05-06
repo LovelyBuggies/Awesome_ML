@@ -22,9 +22,10 @@
 ## Reinforcement Learning
 
 - [OpenAI: Spinning Up](https://spinningup.openai.com/en/latest/index.html)
+- [UC Berkley: CS294 Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/)
 - [强化学习线路](https://mp.weixin.qq.com/s/E2va_w2Lh_x3n_1XnOY0ZA), _containing some flaws_
 - [Policy Gradient Algorithms](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html#what-is-policy-gradient)
-- [UC Berkley: CS294 Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/)
+- [Understanding AC Methods](https://towardsdatascience.com/understanding-actor-critic-methods-931b97b6df3f)
 
 ## Adversial Learning
 
