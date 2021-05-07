@@ -35,7 +35,7 @@ To be an expert in a specified field of ML, you must lay a solid foundation of t
 
 ## Adversial Learning
 
-- [GAN VS AC(RL)](https://arxiv.org/abs/1610.01945)
+- [GAN VS Actor-Critic](https://arxiv.org/abs/1610.01945)
 
 ## Imitation Learning
 
@@ -43,7 +43,7 @@ To be an expert in a specified field of ML, you must lay a solid foundation of t
 
 - [KD 20篇 paper 回顾](https://zhuanlan.zhihu.com/p/160206075)
 - [KD: A Survey](https://arxiv.org/abs/2006.05525)
-- [KD and S-T Learning(CV): A Review](https://arxiv.org/abs/2004.05937)
+- [KD and S-T Learning for CV: A Review](https://arxiv.org/abs/2004.05937)
 
 ## Quantum Machine Learning
 
@@ -59,11 +59,15 @@ ML is such a promising field that contains a lot of opportunities for students:
 - [Top AI Fellowship](https://towardsdatascience.com/top-ai-fellowship-programs-to-look-out-for-344af565824c)
 - [GT: Fellowship & Award Opportunities](http://ml.gatech.edu/content/fellowship-award-opportunities)
 - [Open Source Projects](https://github.com/tapaswenipathak/Open-Source-Programs)
+- [Apple Career for ML](https://www.apple.com/careers/us/machine-learning-and-ai.html)
 - [AIRS Research](https://airs.cuhk.edu.cn/zh-hans/airs/rpositions)
 - [MSRA Jobs](https://www.msra.cn/zh-cn/jobs)
 - [Google Research](https://research.google/)
 - [Facebook AI](https://ai.facebook.com/)
+- [ByteDance AI Lab](https://ailab.bytedance.com/research)
+- [Tencent AI Lab](https://ai.tencent.com/ailab/en/index)
 - [DiDi Labs](http://www.didi-labs.com/)
+- [Amazon Science](https://www.amazon.science/machine-learning)
 
 ## Miscellaneous
 
