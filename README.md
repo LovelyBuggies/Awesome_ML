@@ -53,11 +53,11 @@ To be an expert in a specified field of ML, you must lay a solid foundation of t
 
 ML is such a promising field that contains a lot of opportunities for students:
 
-- [UCB: BAIR](https://bair.berkeley.edu/getting_involved.html)
-- [OpenAI: Jobs](https://openai.com/jobs/)
-- [DeepMind: Research Jobs](https://deepmind.com/careers/jobs?teams=Research)
+- [BAIR](https://bair.berkeley.edu/getting_involved.html)
+- [OpenAI Jobs](https://openai.com/jobs/)
+- [DeepMind Research Jobs](https://deepmind.com/careers/jobs?teams=Research)
 - [Top AI Fellowship](https://towardsdatascience.com/top-ai-fellowship-programs-to-look-out-for-344af565824c)
-- [GT: Fellowship & Award Opportunities](http://ml.gatech.edu/content/fellowship-award-opportunities)
+- [Fellowship & Award Opportunities](http://ml.gatech.edu/content/fellowship-award-opportunities)
 - [Open Source Projects](https://github.com/tapaswenipathak/Open-Source-Programs)
 - [Apple Career for ML](https://www.apple.com/careers/us/machine-learning-and-ai.html)
 - [AIRS Research](https://airs.cuhk.edu.cn/zh-hans/airs/rpositions)
