@@ -44,4 +44,8 @@
 
 - [UToronto: Quantum Machine Learning(YouTube)](https://www.youtube.com/playlist?list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg)
 
+## Opportunities
+
+- [Top AI Fellowship](https://towardsdatascience.com/top-ai-fellowship-programs-to-look-out-for-344af565824c)
+
 ## Miscellaneous
