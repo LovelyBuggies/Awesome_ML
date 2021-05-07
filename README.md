@@ -47,5 +47,6 @@
 ## Opportunities
 
 - [Top AI Fellowship](https://towardsdatascience.com/top-ai-fellowship-programs-to-look-out-for-344af565824c)
+- [Fellowship & Award Opportunities](http://ml.gatech.edu/content/fellowship-award-opportunities)
 
 ## Miscellaneous
