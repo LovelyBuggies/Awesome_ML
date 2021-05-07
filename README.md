@@ -17,6 +17,7 @@
 To be an expert in a specified field of ML, you must lay a solid foundation of the basics:
 
 - [UCB: ML@Berkley](https://ml.berkeley.edu/blog/)
+- [林轩田机器学习基础(bilibili)](https://www.bilibili.com/video/BV1Cx411i7op?from=search&seid=15028071265755754643)
 - [Columbia: CS4771 Machine Learning](http://www.cs.columbia.edu/~verma/classes/ml/index.html)
 
 ## Computer Vision
@@ -65,3 +66,6 @@ ML is such a promising field that contains a lot of opportunities for students:
 - [DiDi Labs](http://www.didi-labs.com/)
 
 ## Miscellaneous
+
+- [AI Conference Due](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)
+- [Tips for Research](https://ruder.io/10-tips-for-research-and-a-phd/), _a fantastic blog_
