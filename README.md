@@ -1,5 +1,6 @@
-# Awesome_MachineLearning
+# Awesome_ML
 
+- Stuffs about Machine Learning.
 - List some **interesting** resources to study Machine Learning here.
 - Mostly are posts and surveys, but also include interesting discussion and interdisciplinary works.
 - Welcome to contribute(**PR**) and please give a reason why it's interesting.
@@ -13,6 +14,9 @@
 
 ## Machine Learning Basics
 
+To be an expert in a specified field of ML, you must lay a solid foundation of the basics:
+
+- [UCB: ML@Berkley](https://ml.berkeley.edu/blog/)
 - [Columbia: CS4771 Machine Learning](http://www.cs.columbia.edu/~verma/classes/ml/index.html)
 
 ## Computer Vision
@@ -22,7 +26,7 @@
 ## Reinforcement Learning
 
 - [OpenAI: Spinning Up](https://spinningup.openai.com/en/latest/index.html)
-- [UC Berkley: CS294 Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/)
+- [UCB: CS294 Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/)
 - [强化学习线路](https://mp.weixin.qq.com/s/E2va_w2Lh_x3n_1XnOY0ZA), _containing some flaws_
 - [Policy Gradient Algorithms](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html#what-is-policy-gradient)
 - [DRL & Meta-Learning Series](https://jonathan-hui.medium.com/rl-deep-reinforcement-learning-series-833319a95530)
@@ -42,11 +46,22 @@
 
 ## Quantum Machine Learning
 
-- [UToronto: Quantum Machine Learning(YouTube)](https://www.youtube.com/playlist?list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg)
+- [UT: Quantum Machine Learning(YouTube)](https://www.youtube.com/playlist?list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg)
 
 ## Opportunities
 
+ML is such a promising field that contains a lot of opportunities for students:
+
+- [UCB: BAIR](https://bair.berkeley.edu/getting_involved.html)
+- [OpenAI: Jobs](https://openai.com/jobs/)
+- [DeepMind: Research Jobs](https://deepmind.com/careers/jobs?teams=Research)
 - [Top AI Fellowship](https://towardsdatascience.com/top-ai-fellowship-programs-to-look-out-for-344af565824c)
-- [Georgia Tech: Fellowship & Award Opportunities](http://ml.gatech.edu/content/fellowship-award-opportunities)
+- [GT: Fellowship & Award Opportunities](http://ml.gatech.edu/content/fellowship-award-opportunities)
+- [Open Source Projects](https://github.com/tapaswenipathak/Open-Source-Programs)
+- [AIRS Research](https://airs.cuhk.edu.cn/zh-hans/airs/rpositions)
+- [MSRA Jobs](https://www.msra.cn/zh-cn/jobs)
+- [Google Research](https://research.google/)
+- [Facebook AI](https://ai.facebook.com/)
+- [DiDi Labs](http://www.didi-labs.com/)
 
 ## Miscellaneous
