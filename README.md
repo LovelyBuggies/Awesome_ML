@@ -20,6 +20,7 @@ To be an expert in a specified field of ML, you must lay a solid foundation of t
 - [林轩田机器学习基础(bilibili)](https://www.bilibili.com/video/BV1Cx411i7op?from=search&seid=15028071265755754643)
 - [Columbia: CS4771 Machine Learning](http://www.cs.columbia.edu/~verma/classes/ml/index.html)
 - [Tensor Network](https://tensornetwork.org/)
+- [Tensors.net](https://www.tensors.net/)
 
 ## Computer Vision
 
