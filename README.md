@@ -9,8 +9,14 @@
 
 - [fast.ai: numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra)
 - [Einstein Summation in Deep Learning](https://rockt.github.io/2018/04/30/einsum)
+
+## Physics Basics
+
 - [MPI: Introduction to Tensors](https://www.mpi-inf.mpg.de/fileadmin/inf/d5/teaching/ws15_16_adamant/tensor_intro.pdf)
+- [Tensor Network](https://tensornetwork.org/)
+- [Tensors.net](https://www.tensors.net/)
 - [Tensor Decompositions and Applications](https://www.cs.cmu.edu/~christos/courses/826-resources/PAPERS+BOOK/Kolda-Bader-SAND2007-6702.pdf)
+- [TN VS ML](http://txiang.iphy.ac.cn/mlreview.pdf), _connection between TN and ML_
 
 ## Machine Learning Basics
 
@@ -19,8 +25,6 @@ To be an expert in a specified field of ML, you must lay a solid foundation of t
 - [UCB: ML@Berkley](https://ml.berkeley.edu/blog/)
 - [林轩田机器学习基础(bilibili)](https://www.bilibili.com/video/BV1Cx411i7op?from=search&seid=15028071265755754643)
 - [Columbia: CS4771 Machine Learning](http://www.cs.columbia.edu/~verma/classes/ml/index.html)
-- [Tensor Network](https://tensornetwork.org/)
-- [Tensors.net](https://www.tensors.net/)
 
 ## Computer Vision
 
