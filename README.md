@@ -33,6 +33,7 @@ To be an expert in a specified field of ML, you must lay a solid foundation of t
 ## Reinforcement Learning
 
 - [OpenAI: Spinning Up](https://spinningup.openai.com/en/latest/index.html)
+- [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 - [UCB: CS294 Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/)
 - [强化学习线路](https://mp.weixin.qq.com/s/E2va_w2Lh_x3n_1XnOY0ZA), _containing some flaws_
 - [Policy Gradient Algorithms](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html#what-is-policy-gradient)
