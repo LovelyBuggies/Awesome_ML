@@ -12,6 +12,8 @@
 
 ## Physics Basics
 
+## Tensor Theory
+
 - [MPI: Introduction to Tensors](https://www.mpi-inf.mpg.de/fileadmin/inf/d5/teaching/ws15_16_adamant/tensor_intro.pdf)
 - [Tensor Network](https://tensornetwork.org/)
 - [Tensors.net](https://www.tensors.net/)
