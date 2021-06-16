@@ -44,6 +44,11 @@ To be an expert in a specified field of ML, you must lay a solid foundation of t
 - [DRL & Meta-Learning Series](https://jonathan-hui.medium.com/rl-deep-reinforcement-learning-series-833319a95530)
 - [Understanding AC Methods](https://towardsdatascience.com/understanding-actor-critic-methods-931b97b6df3f)
 
+## Control Theory
+
+- [UIUC: Calculus of Variations and Optimal Control Theory]()
+- [Cool Things in Optimal Control and Physics](https://cgliu.github.io/posts/optimal-control/optimization-physics.html#org1237ec1)
+
 ## Adversial Learning
 
 - [GAN VS Actor-Critic](https://arxiv.org/abs/1610.01945)
