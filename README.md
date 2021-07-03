@@ -63,6 +63,8 @@ To be an expert in a specified field of ML, you must lay a solid foundation of t
 
 ## Quantum Machine Learning
 
+- [UIUC: Quantum Computing and Shor's Algorithm](https://quantum-algorithms.herokuapp.com/299/paper/paper.html)
+- [IIT: Seminar on Quantum Computing](https://cse.iitkgp.ac.in/~goutam/quantumComputing/index.html), _a brief intro to quantum computing_
 - [UT: Quantum Machine Learning(YouTube)](https://www.youtube.com/playlist?list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg)
 
 ## Opportunities
