@@ -85,7 +85,6 @@ ML is such a promising field that contains a lot of opportunities for students:
 - [Facebook AI](https://ai.facebook.com/)
 - [ByteDance AI Lab](https://ailab.bytedance.com/research)
 - [Tencent AI Lab](https://ai.tencent.com/ailab/en/index)
-- [DiDi Labs](http://www.didi-labs.com/)
 - [Amazon Science](https://www.amazon.science/machine-learning)
 - [Insight Research Centre](https://www.insight-centre.org/work-with-us/)
 
