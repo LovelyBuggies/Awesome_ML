@@ -46,8 +46,9 @@ To be an expert in a specified field of ML, you must lay a solid foundation of t
 
 ## Control Theory
 
-- [UIUC: Calculus of Variations and Optimal Control Theory]()
+- [UIUC: Calculus of Variations and Optimal Control Theory](http://liberzon.csl.illinois.edu/teaching/cvoc/cvoc.html)
 - [Cool Things in Optimal Control and Physics](https://cgliu.github.io/posts/optimal-control/optimization-physics.html#org1237ec1)
+- [HJB Equations & Stochastic Differential Equations](https://benjaminmoll.com/wp-content/uploads/2019/07/Lecture4_ECO521_web.pdf), _details about Hamiltonian v.s. Bellman_
 
 ## Adversial Learning
 
