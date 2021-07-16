@@ -43,6 +43,8 @@ To be an expert in a specified field of ML, you must lay a solid foundation of t
 - [Policy Gradient Algorithms](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html#what-is-policy-gradient)
 - [DRL & Meta-Learning Series](https://jonathan-hui.medium.com/rl-deep-reinforcement-learning-series-833319a95530)
 - [Understanding AC Methods](https://towardsdatascience.com/understanding-actor-critic-methods-931b97b6df3f)
+- [Distributional RL](https://mtomassoli.github.io/2017/12/08/distributional_rl/)
+- [TD error vs advantage vs Bellman error](http://boris-belousov.net/2017/04/29/ergodic-MDP/)
 
 ## Control Theory
 
