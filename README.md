@@ -83,6 +83,7 @@ ML is such a promising field that contains a lot of opportunities for students:
 - [Open Source Projects](https://github.com/tapaswenipathak/Open-Source-Programs)
 - [Apple Career for ML](https://www.apple.com/careers/us/machine-learning-and-ai.html)
 - [AIRS Research](https://airs.cuhk.edu.cn/zh-hans/airs/rpositions)
+- [IDEA Research](https://idea.edu.cn/)
 - [MSRA Jobs](https://www.msra.cn/zh-cn/jobs)
 - [Google Research](https://research.google/)
 - [Facebook AI](https://ai.facebook.com/)
