@@ -1,3 +1,19 @@
+- [Awesome_ML](#awesome-ml)
+  * [Mathematics Basics](#mathematics-basics)
+  * [Physics Basics](#physics-basics)
+  * [Tensor Theory](#tensor-theory)
+  * [Machine Learning Basics](#machine-learning-basics)
+  * [Computer Vision](#computer-vision)
+  * [Natural Language Processing](#natural-language-processing)
+  * [Distributed Deep Learning](#distributed-deep-learning)
+  * [Control Theory and Reinforcement Learning](#control-theory-and-reinforcement-learning)
+  * [Adversial Learning and Imitation Learning](#adversial-learning-and-imitation-learning)
+  * [Opportunities](#opportunities)
+  * [Miscellaneous](#miscellaneous)
+  * [On the right](#on-the-right)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 # Awesome_ML
 
 - Stuffs about Machine Learning.
@@ -11,6 +27,11 @@
 - [Einstein Summation in Deep Learning](https://rockt.github.io/2018/04/30/einsum)
 
 ## Physics Basics
+
+- [QC for ML: A Survey](https://arxiv.org/pdf/2006.12025.pdf), _a great survey_
+- [UIUC: QC and Shor's Algorithm](https://quantum-algorithms.herokuapp.com/299/paper/paper.html)
+- [IIT: Seminar on Quantum Computing](https://cse.iitkgp.ac.in/~goutam/quantumComputing/index.html), _a brief intro to quantum computing_
+- [UT: Quantum Machine Learning(YouTube)](https://www.youtube.com/playlist?list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg)
 
 ## Tensor Theory
 
@@ -31,10 +52,18 @@ To be an expert in a specified field of ML, you must lay a solid foundation of t
 
 ## Computer Vision
 
+
 ## Natural Language Processing
 
-## Reinforcement Learning
 
+## Distributed Deep Learning
+- [Ring AllReduce](https://towardsdatascience.com/visual-intuition-on-ring-allreduce-for-distributed-deep-learning-d1f34b4911da), _a straightforward tutorial for beginners_
+
+## Control Theory and Reinforcement Learning
+
+- [UIUC: Calculus of Variations and Optimal Control Theory](http://liberzon.csl.illinois.edu/teaching/cvoc/cvoc.html)
+- [Cool Things in Optimal Control and Physics](https://cgliu.github.io/posts/optimal-control/optimization-physics.html#org1237ec1)
+- [HJB Equations & Stochastic Differential Equations](https://benjaminmoll.com/wp-content/uploads/2019/07/Lecture4_ECO521_web.pdf), _details about Hamiltonian v.s. Bellman_
 - [OpenAI: Spinning Up](https://spinningup.openai.com/en/latest/index.html)
 - [Stanford: Reinforcement Learning An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 - [UCB: CS294 Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/)
@@ -46,30 +75,12 @@ To be an expert in a specified field of ML, you must lay a solid foundation of t
 - [Distributional RL](https://mtomassoli.github.io/2017/12/08/distributional_rl/)
 - [TD error vs advantage vs Bellman error](http://boris-belousov.net/2017/04/29/ergodic-MDP/)
 
-## Control Theory
-
-- [UIUC: Calculus of Variations and Optimal Control Theory](http://liberzon.csl.illinois.edu/teaching/cvoc/cvoc.html)
-- [Cool Things in Optimal Control and Physics](https://cgliu.github.io/posts/optimal-control/optimization-physics.html#org1237ec1)
-- [HJB Equations & Stochastic Differential Equations](https://benjaminmoll.com/wp-content/uploads/2019/07/Lecture4_ECO521_web.pdf), _details about Hamiltonian v.s. Bellman_
-
-## Adversial Learning
+## Adversial Learning and Imitation Learning
 
 - [GAN VS Actor-Critic](https://arxiv.org/abs/1610.01945)
-
-## Imitation Learning
-
-## Model Compression
-
 - [KD 20篇 paper 回顾](https://zhuanlan.zhihu.com/p/160206075)
 - [KD: A Survey](https://arxiv.org/abs/2006.05525)
 - [KD and S-T Learning for CV: A Review](https://arxiv.org/abs/2004.05937)
-
-## Quantum Machine Learning
-
-- [QC for ML: A Survey](https://arxiv.org/pdf/2006.12025.pdf), _a great survey_
-- [UIUC: QC and Shor's Algorithm](https://quantum-algorithms.herokuapp.com/299/paper/paper.html)
-- [IIT: Seminar on Quantum Computing](https://cse.iitkgp.ac.in/~goutam/quantumComputing/index.html), _a brief intro to quantum computing_
-- [UT: Quantum Machine Learning(YouTube)](https://www.youtube.com/playlist?list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg)
 
 ## Opportunities
 
