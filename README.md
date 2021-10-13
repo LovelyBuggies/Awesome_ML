@@ -19,9 +19,8 @@
   * [Adversial Learning and Imitation Learning](#adversial-learning-and-imitation-learning)
   * [Opportunities](#opportunities)
   * [Miscellaneous](#miscellaneous)
-  * [On the right](#on-the-right)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+<tiny><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Generated with markdown-toc</a></i></tiny>
 
 ## Mathematics Basics
 
