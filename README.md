@@ -20,7 +20,7 @@
   * [Opportunities](#opportunities)
   * [Miscellaneous](#miscellaneous)
 
-<tiny><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Generated with markdown-toc</a></i></tiny>
+<tiny><i><span style="color:grey"><a href='http://ecotrust-canada.github.io/markdown-toc/'>Generated with markdown-toc</a></span></i></tiny>
 
 ## Mathematics Basics
 
