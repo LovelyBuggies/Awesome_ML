@@ -1,3 +1,12 @@
+# Awesome_ML
+
+- Stuffs about Machine Learning.
+- List some **interesting** resources to study Machine Learning here.
+- Mostly are posts and surveys, but also include interesting discussion and interdisciplinary works.
+- Welcome to contribute(**PR**) and please give a reason why it's interesting.
+
+**Table of Contents**
+
 - [Awesome_ML](#awesome-ml)
   * [Mathematics Basics](#mathematics-basics)
   * [Physics Basics](#physics-basics)
@@ -13,13 +22,6 @@
   * [On the right](#on-the-right)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-# Awesome_ML
-
-- Stuffs about Machine Learning.
-- List some **interesting** resources to study Machine Learning here.
-- Mostly are posts and surveys, but also include interesting discussion and interdisciplinary works.
-- Welcome to contribute(**PR**) and please give a reason why it's interesting.
 
 ## Mathematics Basics
 
