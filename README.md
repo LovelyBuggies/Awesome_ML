@@ -58,7 +58,7 @@ To be an expert in a specified field of ML, you must lay a solid foundation of t
 
 
 ## Distributed Deep Learning
-- [Ring AllReduce](https://towardsdatascience.com/visual-intuition-on-ring-allreduce-for-distributed-deep-learning-d1f34b4911da), _a straightforward tutorial for beginners_
+- [Ring AllReduce](https://towardsdatascience.com/visual-intuition-on-ring-allreduce-for-distributed-deep-learning-d1f34b4911da), _a straightforward tutorial for beginners: share reduce and share only_
 
 ## Control Theory and Reinforcement Learning
 
